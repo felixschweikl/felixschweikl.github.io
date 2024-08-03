@@ -17,11 +17,5 @@ I am a Statistics student at the LMU Munich.
 [//]: <> (adding images ![Editing a markdown file for a talk](/images/editing-talk.png) )
 
 
-Header
-------
-text
 
-Header
-======
-also text
 
