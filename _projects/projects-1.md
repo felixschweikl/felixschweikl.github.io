@@ -5,6 +5,6 @@ collection: projects
 ---
 
 
-Im Rahmen von diesem Projekt wurden für das Jahr 2023 Fahrten mit der S-Bahn München gesammelt und auf Pünktlichkeit untersucht. Als Datenbasis wurden die eigenen S-Bahn Fahrten von mir und drei weiteren Pendlern verwendet. 
+Im Rahmen dieses Projektes wurden für das Jahr 2023 Fahrten mit der S-Bahn München gesammelt und auf Pünktlichkeit untersucht. Als Datenbasis wurden die eigenen S-Bahn Fahrten von mir und drei weiteren Pendlern verwendet. 
 
-Die Analyse ist unter folgendem Link zu finden: [hier](http://felixschweikl.github.io/files/paper1.pdf)
+Die Analyse ist unter folgendem Link verfügbar: [hier](http://felixschweikl.github.io/files/paper1.pdf)

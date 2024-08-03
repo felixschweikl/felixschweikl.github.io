@@ -14,6 +14,10 @@ Education
 * B.Sc in Statistics, 2021
 
  
-Skills
+Programming Skills
 ======
 * R
+* Python
+* Java
+* SAS
+* ~~(SPSS)~~
