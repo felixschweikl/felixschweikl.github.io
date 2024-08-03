@@ -1,6 +1,6 @@
 ---
 title: "Project: Verspätungs-Statistik 2023 - S-Bahn München"
-excerpt: "Descriptive data analysis of delays in the Munich S-Bahn based on self-collected dataset on my line [DE]<br/><img src='/images/ZugEndet_Aussteigen_2.jpg'>"
+excerpt: "Descriptive data analysis of delays in the Munich S-Bahn based on self-collected dataset on my line [DE]<br/><img src='/images/ZugEndet_Aussteigen_3.jpg'>"
 collection: projects
 ---
 
