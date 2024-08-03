@@ -1,8 +1,10 @@
 ---
-title: "Project: S-Bahn München - Verspätungs-Statistik 2023 "
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Project: Verspätungs-Statistik 2023 - S-Bahn München"
+excerpt: "Descriptive data analysis of delays in the Munich S-Bahn based on self-collected dataset on my line [DE]<br/><img src='/images/ZugEndet_Aussteigen.png'>"
 collection: projects
 ---
 
-Bahn Versp Text
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
+Im Rahmen von diesem Projekt wurden für das Jahr 2023 Fahrten mit der S-Bahn München gesammelt und auf Pünktlichkeit untersucht. Als Datenbasis wurden die eigenen S-Bahn Fahrten von mir und drei weiteren Pendlern verwendet. 
+
+Die Analyse ist unter folgendem Link zu finden: [hier](http://felixschweikl.github.io/files/paper1.pdf)
