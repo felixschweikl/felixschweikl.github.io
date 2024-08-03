@@ -13,10 +13,7 @@ Education
 ======
 * B.Sc in Statistics, 2021
 
-Work experience
-======
-* some
-  
+ 
 Skills
 ======
 * R
