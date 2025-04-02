@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-coming soon...
 
 
 {% if site.author.googlescholar %}

@@ -3,7 +3,7 @@ title: "Boosting-basierende Modellierung des Aufstiegs der NSDAP in der Weimarer
 authors: "Felix Schweikl"
 venue: "Ludwig-Maximilians-Universität München"
 date: 2021-07-11
-excerpt: "Bachelor's Thesis. This thesis analyzes the voters of the Nazi party (NSDAP) during the five elections held between 1928 and 1933, using the model-based boosting approach provided by the R package mboost. [German]"
+excerpt: "Bachelor's Thesis. This work analyzes the voters of the Nazi party (NSDAP) during the five elections held between 1928 and 1933, using the model-based boosting approach provided by the R package mboost. [German]"
 paperurl: "https://epub.ub.uni-muenchen.de/77435/?template=user_area"
 bibtex: |
   @mastersthesis{Schweikl2021,

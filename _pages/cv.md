@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.Sc in Statistics, 2021
+* M.Sc in Statistics with specialization Machine Learning, 2025
+* B.Sc in Statistics with minor subject Geophysics, 2021
 
  
 Programming Skills
