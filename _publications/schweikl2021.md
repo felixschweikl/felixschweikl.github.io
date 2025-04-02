@@ -5,6 +5,7 @@ venue: "Ludwig-Maximilians-Universität München"
 date: 2021-07-11
 excerpt: "Bachelor's Thesis. This work analyzes the voters of the Nazi party (NSDAP) during the five elections held between 1928 and 1933, using the model-based boosting approach provided by the R package mboost. [German]"
 paperurl: "https://epub.ub.uni-muenchen.de/77435/?template=user_area"
+bibtexurl: '/files/schweikl2021.bib'
 bibtex: |
   @mastersthesis{Schweikl2021,
     author    = {Felix Schweikl},
@@ -21,4 +22,4 @@ bibtex: |
 
 Beschreibung hier einfügen...  
 📄 [PDF herunterladen](https://epub.ub.uni-muenchen.de/77435/?template=user_area)  
-📜 [BibTeX anzeigen](#)
+📜 [BibTeX anzeigen](/files/schweikl2021.bib)
