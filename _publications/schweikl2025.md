@@ -5,6 +5,7 @@ venue: "Ludwig-Maximilians-Universität München"
 date: 2025-01-08
 excerpt: "Master's Thesis. This study evaluates the three modelling approaches Cumulative Odds Model, XGBoost and LSTM to forecast the global geomagnetic index Hp30 up to hours ahead, using a direct forecasing approach, provided by the forecastML R package. 
 bibtexurl: '/files/schweikl2025.bib'
+paperurl: "https://felixschweikl.github.io/404"
 bibtex: |
   @mastersthesis{Schweikl2025,
     author    = {Felix Schweikl},
