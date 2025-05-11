@@ -7,7 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Statistics student at the LMU Munich.
+
+
+I am a statistician interested in geophysics. Currently I apply a time series analysis on a geomagnetic index to predict geomagnetic disturbances in Earth's magnetic field caused by solar activity.
+During my studies in Statistics and Data Science at Ludwig-Maximilians-Universität München, I completed a minor subject in Geophysics and later specialized in Machine Learning.
+
+
+
 
 
 
